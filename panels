@@ -1,1 +1,145 @@
-
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 0,
+			"iconurl": "1",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "DECAY",
+				"imageurl": "https://i.imgur.com/TuhQIw7.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					},
+					{
+						"title": "URGENT",
+						"text": "<RichColor Color=\"1, 1, 0, 0.65\">Structure and Dino Decay</>\r\n\r\n<RichColor Color=\"1, 1, 1, 1\">Decay on this cluster is controlled by the </><RichColor Color=\"0, 0.65, 1, 1\">Massive Base Protection</> <RichColor Color=\"1, 1, 1, 1\">mod.  In order to safeguard your base, outpost, and water pen you must place</> <RichColor Color=\"0, 0.65, 1, 1\">Massive Base Protection Flags</> <RichColor Color=\"1, 1, 1, 1\">down at each.</>  <RichColor Color=\"1, 1, 1, 1\">If you do not, your structures and dinos will be</> <RichColor Color=\"0, 0.65, 1, 1\">wiped in 7 days</>.  <RichColor Color=\"1, 1, 1, 1\">MBP flags cost 1 fiber to craft.</>\r\n\r\n<RichColor Color=\"1, 1, 0, 0.65\">Base Location Tracking</>\r\n\r\n<RichColor Color=\"1, 1, 1, 1\">In addition to the MBP flags, you must also place a single </><RichColor Color=\"0, 0.65, 1, 1\">Location Flag</> <RichColor Color=\"1, 1, 1, 1\">at your base, outpost, and water pen.  This information is displayed on live maps for each server found in the Cluster Info category on Discord.  It helps admins with server management and let's players find each other easier.  Location flags cost 1 fiber to craft.</>"
+					},
+					{
+						"title": "Play Time Rewards",
+						"text": "<RichColor Color=\"1, 1, 1, 1\">The system is fairly simple: you receive 10 copper coins directly to your inventory for every real-time hour of play.  Those coins can then be spent in the </><RichColor Color=\"0, 0.65, 1, 1\">New Player Shop</><RichColor Color=\"1, 1, 1, 1\">, or elsewhere in the market</>\r\n"
+					},
+					{
+						"title": "New Player Shop",
+						"text": "<RichColor Color=\"1, 1, 1, 1\">The shop contains an assortment of early-game items that will assist you in getting started.  Each item can only be purchased once, and is only purchasable with the copper coins you earn through the</> <RichColor Color=\"0, 0.65, 1, 1\">Play Time Rewards</>.\r\n\r\n<RichColor Color=\"1, 1, 1, 1\">To access the market and the </><RichColor Color=\"0, 0.65, 1, 1\">New Player Shop</> <RichColor Color=\"1, 1, 1, 1\">open the radial menu (Hold R on PC) (Hold X on Xbox) (Hold □ on PSN), select</> <RichColor Color=\"0, 0.65, 1, 1\">Simple Trade</> <RichColor Color=\"1, 1, 1, 1\">(stack of copper coins), then select</> <RichColor Color=\"0, 0.65, 1, 1\">Global Market</>.  <RichColor Color=\"1, 1, 1, 1\">Scroll to the </><RichColor Color=\"0, 0.65, 1, 1\">New Player Shop</><RichColor Color=\"1, 1, 1, 1\">, select the item you want to purchase, and then click</> <RichColor Color=\"0, 0.65, 1, 1\">Buy</>."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "TRADING",
+				"imageurl": "https://i.imgur.com/XDwUK7B.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					},
+					{
+						"title": "<RichColor Color=\"0, 1, 1, 1\">ARKNAV</>",
+						"text": "<RichColor Color=\"1, 1, 1, 1\">You may have noticed the HUD elements sitting over your chat box.  To configure these elements, or remove them, do the following:</>\r\n\r\n<RichColor Color=\"1, 1, 0, 0.65\">[PC]</>\r\n<RichColor Color=\"1, 1, 1, 1\">Press alt+M</>\r\n\r\n<RichColor Color=\"1, 1, 0, 0.65\">[Console]</>\r\n<RichColor Color=\"1, 1, 1, 1\">Craft the Arknav Configurator and pull the trigger.</>"
+					},
+					{
+						"title": "MOD INFORMATION",
+						"text": "<RichColor Color=\"1, 1, 1, 1\">A full list of added mods can be found on Discord in the Beach Bob category.  Videos of how to use each mod are being added regularly.</>"
+					},
+					{
+						"title": "<RichColor Color=\"0, 1, 0, 1\">AUTO RUNNER</>",
+						"text": "<RichColor Color=\"1, 1, 1, 1\">To configure auto-sprint, do the following:</>\r\n\r\n<RichColor Color=\"1, 1, 0, 0.65\">[PC]</>\r\n<RichColor Color=\"1, 1, 1, 1\">Hold R and select the green dino</>\r\n\r\n<RichColor Color=\"1, 1, 0, 0.65\">[Console]</>\r\n<RichColor Color=\"1, 1, 1, 1\">Hold X on Xbox and □ on Playstation then select the green dino</> "
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Settings",
+				"imageurl": "https://i.imgur.com/z36QHvY.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rules",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Bases, Outposts, and Water Pens",
+						"text": "You are permitted to have one of the following and must place both MBP and Location Flags at each:\r\n\r\n[Base]\r\n- 1 per server\r\n - must fit within MBP Large Flag bubble\r\n\r\n[Outpost]\r\n-1 per server\r\n - must fit withing MBP Small Flag bubble\r\n\r\n[Water Pen]\r\n-1 per server\r\n - must fit within MBP Small Flag bubble\r\n\r\nAny structure not covered by a bubble will be auto-destroyed in 7 days.\r\n\r\nFor a full list of building and other rules, visit the Cluster Info category on Discord."
+					},
+					{
+						"title": "Dinos",
+						"text": "You may not do any of the following:\r\n\r\n- Leave dinos in caves, obelisks, or mission areas\r\n- Leave carnivores on agrressive-wander unattended\r\n- Leave dinos at other players bases\r\n- Block land or water routes with abandoned dinos\r\n\r\nAbandoned dinos will be taken to the Impound Lot at the Community Center.  "
+					},
+					{
+						"title": "Griefing",
+						"text": "You may not do any of the following:\r\n\r\n- Pick players up who are not in your tribe\r\n- Kite dinosaurs of any kind to other players or their bases\r\n- Cause damage to other players, their dinos, or their bases\r\n- Take any item or dino that doesn't belong to you\r\n- Interfere with cave, boss, or mission runs\r\n\r\nEngaging in any of these behaviors may result in an immediate ban."
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Online Players",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "",
+						"text": "{playerlist}"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "New Title",
+						"text": "UNDER CONSTRUCTION"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "DISCORD",
+				"url": "https://discord.gg/arkftw"
+			},
+			{
+				"text": "RULES",
+				"url": "https://discord.com/channels/376836937862086656/1266448825019793548"
+			},
+			{
+				"text": "TICKET",
+				"url": "https://discord.com/channels/376836937862086656/1327106247224459296"
+			},
+			{
+				"text": "MODS",
+				"url": "https://discord.com/channels/376836937862086656/1190709755354824834"
+			},
+			{
+				"text": "SHOP",
+				"url": "https://discord.com/channels/376836937862086656/1267175774931255426"
+			}
+		],
+		"version": 2
+	}
+}
